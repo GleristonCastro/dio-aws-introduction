@@ -47,7 +47,7 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 - [Manual de Configuração das Instâncias EC2](https://aws.amazon.com/pt/ec2/?trk=273714db-4e14-42ba-be75-e3e36c4bc786&sc_channel=ps&ef_id=CjwKCAjwr5_CBhBlEiwAzfwYuISRnd6wNdeOIh7-W5nWnHIEXp70Mb_MVU5altJb_IGrEMBo9byNlhoCbNkQAvD_BwE:G:s&s_kwcid=AL!4422!3!589890540409!p!!g!!ec2!16393914376!135045746338&gad_campaignid=16393914376&gbraid=0AAAAADjHtp-jwjRTWCbB9FwjPnZHI4RPh&gclid=CjwKCAjwr5_CBhBlEiwAzfwYuISRnd6wNdeOIh7-W5nWnHIEXp70Mb_MVU5altJb_IGrEMBo9byNlhoCbNkQAvD_BwE)
 - [Documentação de Políticas de Segurança AWS](https://docs.aws.amazon.com/pt_br/security/)
 - Planilha de Análise de Custos Comparativa (Before/After) (será enviada por email)
-- [Guia de Acesso ao CloudFront para Equipes Regionais] (https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html)
+- [Guia de Acesso ao CloudFront para Equipes Regionais](https://docs.aws.amazon.com/pt_br/AmazonCloudFront/latest/DeveloperGuide/HowCloudFrontWorks.html)
 - [Procedimentos de Backup e Recovery do RDS](https://docs.aws.amazon.com/pt_br/prescriptive-guidance/latest/backup-recovery/rds.html)
 - [Relatório de Compliance Farmacêutico AWS](https://aws.amazon.com/pt/health/healthcare-compliance/)
 - Cronograma de Migração por Etapas (será enviado por email)
