@@ -1,6 +1,6 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** 10/06/2026
+**Data:** 10/06/2026  
 **Empresa:** Abstergo Industries  
 **Responsável:** Gleriston C. de Castro
 
