@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** [data de início do projeto]  
+**Data:** 10/06/2026
 **Empresa:** Abstergo Industries  
-**Responsável:** [nome do responsável pelo projeto]
+**Responsável:** Gleriston C. de Castro
 
 ## Introdução
 
@@ -56,4 +56,4 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 
 **Assinatura do Responsável pelo Projeto:**
 
-[Nome do Responsável pelo Projeto]
+Gleriston C. de Castro
